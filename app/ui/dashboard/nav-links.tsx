@@ -1,3 +1,4 @@
+//use client is used because we want to make this component as a client
 "use client"
 import {
   UserGroupIcon,
